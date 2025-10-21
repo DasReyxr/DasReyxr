@@ -20,4 +20,5 @@ My philospophy is to focus on **scalability and optimization**. I enjoy working 
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DasReyes-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasreyes/)
+
 [![IEEE Collabratec](https://img.shields.io/badge/IEEE%20Collabratec-DasReyxr-00629B?logo=ieee&logoColor=white
