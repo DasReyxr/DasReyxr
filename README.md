@@ -11,13 +11,37 @@
 - **Excel Macros:** Implementing Automation stuff on Payrolls or excel databases, focused on organized workflow.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dasreyes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contreras.orlandoxv@gmail.com) [![IEEE Collabratec](https://img.shields.io/badge/IEEE%20Collabratec-DasReyxr-00629B?logo=ieee&logoColor=white)](https://ieee-collabratec.ieee.org/app/p/DasReyxr)
+## Connect With Me
+<p align="center">
+
+  <a href="[https://www.linkedin.com/in/dasreyes]">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://ieee-collabratec.ieee.org/app/p/DasReyxr">
+  <img alt="Static Badge" src="https://img.shields.io/badge/DasReyxr-white?style=for-the-badge&logo=ieee&logoColor=white&logoSize=auto&labelColor=blue&color=blue">
+  </a>
+</p>
 
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+
+# Tech Stack:
+<p align="center">
+  <a href="https://www.linkedin.com/in/dasreyes">
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="LinkedIn" />
+  </a>
+    <a href="https://www.linkedin.com/in/dasreyes">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ieee-collabratec.ieee.org/app/p/DasReyxr">
+  <img alt="Static Badge" src="https://img.shields.io/badge/DasReyxr-white?style=for-the-badge&logo=ieee&logoColor=white&logoSize=auto&labelColor=blue&color=blue">
+  </a>
+</p>
+
+
+![C]() ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![STM](https://img.shields.io/badge/STM-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)
+ 
 
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
