@@ -28,28 +28,43 @@
 
 # Tech Stack:
 <p align="center">
-  <a href="https://www.linkedin.com/in/dasreyes">
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/DasReyxr/C-Cpp">
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoSize=auto&logoColor=white" alt="C" />
   </a>
-    <a href="https://www.linkedin.com/in/dasreyes">
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/DasReyxr/C-Cpp">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoSize=auto&logoColor=white" alt="C++" />
   </a>
-  <a href="https://ieee-collabratec.ieee.org/app/p/DasReyxr">
-  <img alt="Static Badge" src="https://img.shields.io/badge/DasReyxr-white?style=for-the-badge&logo=ieee&logoColor=white&logoSize=auto&labelColor=blue&color=blue">
+
+  <a href="https://github.com/DasReyxr/PyCodes">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoSize=auto&logoColor=ffdd54" alt="Python" />
   </a>
+  <a href="https://github.com/DasReyxr/Matlab">
+    <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoSize=auto&logoColor=white" alt="MATLAB" />
+  </a>
+  <a href="https://github.com/DasReyxr/KiCad">
+    <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoSize=auto&logoColor=white" alt="KiCad" />
+  </a>
+  <a href="https://github.com/DasReyxr/LaTeX">
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoSize=auto&logoColor=white" alt="LaTeX" />
+  </a>
+
+  <a href="https://github.com/DasReyxr/C-Cpp">
+    <img src="https://img.shields.io/badge/STM-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue" alt="IEEE Collabratec" />
+  </a>
+  <a href="https://github.com/DasReyxr/ASM">
+    <img src="https://img.shields.io/badge/assembly%20(PIC, AVR, ARM)-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="IEEE Collabratec" />
+  </a>
+  <a href="https://github.com/DasReyxr/Code-INO">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</a>
 </p>
 
 
-![C]() ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![STM](https://img.shields.io/badge/STM-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)
- 
-
-
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DasReyxr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DasReyxr&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DasReyxr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DasReyxr&theme=dracula&hide_border=false" alt="GitHub Streak" /><br/>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
