@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoSize=auto&logoColor=white" alt="LaTeX" />
   </a>
 
-  <a href="https://github.com/DasReyxr/C-Cpp">
+  <a href="https://github.com/DasReyxr/C-Cpp/tree/main/Embedded">
     <img src="https://img.shields.io/badge/STM-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue" alt="IEEE Collabratec" />
   </a>
   <a href="https://github.com/DasReyxr/ASM">
