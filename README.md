@@ -28,49 +28,53 @@
 
 # Tech Stack:
 <p align="center">
-  <a href="https://github.com/DasReyxr/C-Cpp">
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoSize=auto&logoColor=white" alt="C" />
-  </a>
-  <a href="https://github.com/DasReyxr/C-Cpp">
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoSize=auto&logoColor=white" alt="C++" />
-  </a>
-
   <a href="https://github.com/DasReyxr/PyCodes">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoSize=auto&logoColor=ffdd54" alt="Python" />
   </a>
   <a href="https://github.com/DasReyxr/Matlab">
     <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoSize=auto&logoColor=white" alt="MATLAB" />
   </a>
+
+  <a href="https://github.com/DasReyxr/C-Cpp">
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoSize=auto&logoColor=white" alt="C" />
+  </a>
+  <a href="https://github.com/DasReyxr/C-Cpp">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoSize=auto&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://github.com/DasReyxr/ASM">
+    <img src="https://img.shields.io/badge/assembly%20(PIC,%20AVR,%20ARM)-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+  </a>
+  <a href="https://github.com/DasReyxr/Code-INO">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  </a>
+
+  <a href="https://github.com/DasReyxr/C-Cpp/tree/main/Embedded">
+    <img src="https://img.shields.io/badge/STM-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue" alt="STM" />
+  </a>
+  <a href="https://github.com/DasReyxr/HDL-ART">
+    <img src="https://img.shields.io/badge/Xilinx-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white" alt="Xilinx" />
+
   <a href="https://github.com/DasReyxr/KiCad">
     <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoSize=auto&logoColor=white" alt="KiCad" />
   </a>
   <a href="https://github.com/DasReyxr/LaTeX">
     <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoSize=auto&logoColor=white" alt="LaTeX" />
   </a>
+  </a>
 
-  <a href="https://github.com/DasReyxr/C-Cpp/tree/main/Embedded">
-    <img src="https://img.shields.io/badge/STM-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue" alt="IEEE Collabratec" />
-  </a>
-  <a href="https://github.com/DasReyxr/ASM">
-    <img src="https://img.shields.io/badge/assembly%20(PIC, AVR, ARM)-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="IEEE Collabratec" />
-  </a>
-  <a href="https://github.com/DasReyxr/Code-INO">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-</a>
 </p>
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=DasReyxr&theme=dracula&hide_border=false" alt="GitHub Streak" /><br/>
 </p>
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DasReyxr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
