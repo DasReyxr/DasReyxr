@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>I'm a future electronics engineer, also a tech passionate about **HDL Design, Embedded Systems and coding**. <br>My philospophy is to focus on **scalability and optimization**. I enjoy working with different microcontrollers like **AVRs, ARM and PIC** (with a strong preference for ARM). I enjoy designing efficient **digital systems using VHDL**.<br>I'm open to learn everything that would be required.<br><br>
 
 
@@ -27,6 +27,8 @@
 
 
 # Tech Stack:
+If you click on the badges, you can see the codes I've done in each of these technologies (not all of them are public, but most of them are).
+
 <p align="center">
   <a href="https://github.com/DasReyxr/PyCodes">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoSize=auto&logoColor=ffdd54" alt="Python" />
@@ -52,17 +54,32 @@
     <img src="https://img.shields.io/badge/STM-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue" alt="STM" />
   </a>
   <a href="https://github.com/DasReyxr/HDL-ART">
-    <img src="https://img.shields.io/badge/Xilinx-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white" alt="Xilinx" />
+    <img src="https://img.shields.io/badge/Xilinx-VHDL-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white" alt="Xilinx" />
 
-  <a href="https://github.com/DasReyxr/KiCad">
+  <a>
     <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoSize=auto&logoColor=white" alt="KiCad" />
   </a>
-  <a href="https://github.com/DasReyxr/LaTeX">
+  <a>
     <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoSize=auto&logoColor=white" alt="LaTeX" />
   </a>
-  </a>
+
+  
 
 </p>
+Feel free to check my repositories to see the projects I've done in each of these technologies.
+
+- [![SW Complex Calc](https://img.shields.io/badge/PY-SW%20Complex%20Calc-3670A0?style=for-the-badge&logo=python&logoSize=auto&logoColor=ffdd54)](https://github.com/DasReyxr/Py-ComplexCalc/tree/main/Software%20Version)
+
+- [![HW Complex Calc](https://img.shields.io/badge/HW%20Complex%20Calc-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/Py-ComplexCalc/tree/main/HW%20Version)
+
+- [![STM32F CAR](https://img.shields.io/badge/STM32F%20CAR-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/STM32F-CAR)
+
+- [![SCR Controller](https://img.shields.io/badge/SCR%20Controller-314CB0?style=for-the-badge&logo=kicad&logoSize=auto&logoColor=white)](https://github.com/DasReyxr/SCRController)
+
+- [![RISC-V](https://img.shields.io/badge/XILINX-RISCV-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white)](https://github.com/DasReyxr/VHDL_RISC-V)
+
+
+
 
 
 # GitHub Stats:
