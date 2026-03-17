@@ -21,7 +21,7 @@
   <a href="https://ieee-collabratec.ieee.org/app/p/DasReyxr">
   <img alt="Static Badge" src="https://img.shields.io/badge/DasReyxr-white?style=for-the-badge&logo=ieee&logoColor=white&logoSize=auto&labelColor=blue&color=blue">
   </a>
-<a href="https://github.com/DasReyxr/CV">
+<a href="https://github.com/DasReyxr/DasReyxr/blob/main/cv/DasCV.pdf">
   <img alt="Static Badge" src="https://img.shields.io/badge/CV-DasReyxr-purple?style=for-the-badge&labelColor=%23272727">
 </a>
 
@@ -76,7 +76,7 @@ Feel free to check my repositories to see the projects I've done in each of thes
 
 - [![HW Complex Calc](https://img.shields.io/badge/HW%20Complex%20Calc-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/Py-ComplexCalc/tree/main/HW%20Version)
 
-- [![TFT Driver Baremetal](https://img.shields.io/badge/TFT%20Driver%20Baremetal-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/Py-ComplexCalc/tree/main/HW%20Version)
+- [![TFT Driver Baremetal](https://img.shields.io/badge/TFT%20Driver%20Baremetal-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/EmbeddedCpp-TFT-Library)
 
 
 - [![IEEE754 Floating-Point Calculator](https://img.shields.io/badge/IEEE754%20FloatingPoint%20Calculator-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/ASM/tree/main/ARM-STM32F411CEU/ExamenCalcIEEE)
