@@ -1,44 +1,13 @@
-# About Me:
 
+
+
+# About Me:
 
 My main interests revolve around **hardware-software integration**, where I enjoy designing efficient digital systems, developing firmware, and understanding how things work from the transistor level up to complete embedded applications.
 
 I strongly value **scalability, optimization, and clean architectures**. I enjoy solving engineering problems through a combination of mathematics, electronics, programming, and computer architecture.
 
 My preferred platforms include **ARM-based microcontrollers**, although I also have experience with **AVR and PIC devices**. I regularly work with **VHDL**, digital logic design, signal analysis, and embedded development.
-
-I am constantly learning and enjoy exploring new technologies whenever they contribute to becoming a better engineer.
-
-
-
-
-## What I Do
-- **Embedded Systems**: Writing clean, optimized codes for a wide range of microcontrollers, experience with Baremetal and HAL libraries.
-- **HDL / FPGA Design**: Developing both sequential and combinational circuits with clear, modular architectures.  
-- **Python Development**: Integrating APIs and libraries for automation in different applications e.g. Creating Playlist on Spotify based on genres, solving math problems using `numpy` and `sympy`. 
-- **Networks and Databases**: Setting up NAS Servers to host SQL databases for personal and professional projects.
-- **Excel Macros:** Implementing Automation stuff on Payrolls or excel databases, focused on organized workflow.
-
-### Engineering Interests
-
-* Digital Design
-* FPGA Development
-* Embedded Systems
-* Computer Architecture
-* Signal Processing
-* Telecommunications
-* Automation
-* Open-Source Technologies
-
-## Current Focus
-
-* Advanced VHDL and FPGA development.
-* Embedded systems design using ARM microcontrollers.
-* Digital communications and computer architecture.
-* Building efficient, maintainable, and scalable engineering projects.
-
-
-
 ## Connect With Me
 <p align="center">
 
@@ -55,6 +24,13 @@ I am constantly learning and enjoy exploring new technologies whenever they cont
 
 </p>
 
+
+## What I Do
+- **Embedded Systems**: Writing clean, optimized codes for a wide range of microcontrollers, experience with Baremetal and HAL libraries.
+- **HDL / FPGA Design**: Developing both sequential and combinational circuits with clear, modular architectures.  
+- **Python Development**: Integrating APIs and libraries for automation in different applications e.g. Creating Playlist on Spotify based on genres, solving math problems using `numpy` and `sympy`. 
+- **Networks and Databases**: Setting up NAS Servers to host SQL databases for personal and professional projects.
+- **Excel Macros:** Implementing Automation stuff on Payrolls or excel databases, focused on organized workflow.
 
 
 
@@ -99,33 +75,38 @@ If you click on the badges, you can see the codes I've done in each of these tec
 
 </p>
 Feel free to check my repositories to see the projects I've done in each of these technologies.
+<table>
+<tr>
+<td>
 
-- [![SW Complex Calc](https://img.shields.io/badge/PY-SW%20Complex%20Calc-3670A0?style=for-the-badge&logo=python&logoSize=auto&logoColor=ffdd54)](https://github.com/DasReyxr/Py-ComplexCalc/tree/main/Software%20Version)
+[![SW Complex Calc](https://img.shields.io/badge/PY-SW%20Complex%20Calc-3670A0?style=for-the-badge&logo=python&logoSize=auto&logoColor=ffdd54)](https://github.com/DasReyxr/Py-ComplexCalc/tree/main/Software%20Version)
 
-- [![HW Complex Calc](https://img.shields.io/badge/HW%20Complex%20Calc-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/Py-ComplexCalc/tree/main/HW%20Version)
+[![TFT Driver Baremetal](https://img.shields.io/badge/TFT%20Driver%20Baremetal-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/EmbeddedCpp-TFT-Library)
 
-- [![TFT Driver Baremetal](https://img.shields.io/badge/TFT%20Driver%20Baremetal-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/EmbeddedCpp-TFT-Library)
+[![STM32F CAR](https://img.shields.io/badge/STM32F%20CAR-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/STM32F-CAR)
 
+[![SCR Controller](https://img.shields.io/badge/SCR%20&%20TRIAC%20Controller-314CB0?style=for-the-badge&logo=kicad&logoSize=auto&logoColor=white)](https://github.com/DasReyxr/SCRController)
 
-- [![IEEE754 Floating-Point Calculator](https://img.shields.io/badge/IEEE754%20FloatingPoint%20Calculator-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/ASM/tree/main/ARM-STM32F411CEU/ExamenCalcIEEE)
+[![RISC-V](https://img.shields.io/badge/XILINX-Booth%20Wallace%20Multiplier-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white)](https://github.com/DasReyxr/HDL-ART/tree/main/Examen2Booth)
 
+[![RISC-V](https://img.shields.io/badge/XILINX-RISCV%20Processor-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white)](https://github.com/DasReyxr/VHDL_RISC-V)
 
-- [![STM32F CAR](https://img.shields.io/badge/STM32F%20CAR-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/STM32F-CAR)
+</td>
+<td>
 
-- [![Power Supply with Short Circuit Detector](https://img.shields.io/badge/Power%20Supply%20with%20Short%20Circuit%20Detector-314CB0?style=for-the-badge&logo=kicad&logoSize=auto&logoColor=white)](https://github.com/DasReyxr/SCRController)
+[![HW Complex Calc](https://img.shields.io/badge/HW%20Complex%20Calc-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/Py-ComplexCalc/tree/main/HW%20Version)
 
+[![IEEE754 Floating-Point Calculator](https://img.shields.io/badge/IEEE754%20FloatingPoint%20Calculator-white?style=for-the-badge&logo=stmicroelectronics&logoColor=white&logoSize=auto&labelColor=blue&color=blue)](https://github.com/DasReyxr/ASM/tree/main/ARM-STM32F411CEU/ExamenCalcIEEE)
 
-- [![SCR Controller](https://img.shields.io/badge/SCR%20&%20TRIAC%20Controller-314CB0?style=for-the-badge&logo=kicad&logoSize=auto&logoColor=white)](https://github.com/DasReyxr/SCRController)
+[![Power Supply with Short Circuit Detector](https://img.shields.io/badge/Power%20Supply%20with%20Short%20Circuit%20Detector-314CB0?style=for-the-badge&logo=kicad&logoSize=auto&logoColor=white)](https://github.com/DasReyxr/SCRController)
 
-- [![RISC-V](https://img.shields.io/badge/XILINX-Pseudo%20RNG%20Generator-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white)](https://github.com/DasReyxr/HDL-ART/tree/main/pyRNG)
+[![RISC-V](https://img.shields.io/badge/XILINX-Pseudo%20RNG%20Generator-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white)](https://github.com/DasReyxr/HDL-ART/tree/main/pyRNG)
 
+[![RISC-V](https://img.shields.io/badge/XILINX-IEEE754%20FloatingPoint%20Calculator-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white)](https://github.com/DasReyxr/HDL-ART/tree/main/Examen3IEEECalc)
 
-- [![RISC-V](https://img.shields.io/badge/XILINX-Booth%20Wallace%20Multiplier-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white)](https://github.com/DasReyxr/HDL-ART/tree/main/Examen2Booth)
-
-- [![RISC-V](https://img.shields.io/badge/XILINX-RISCV%20Processor-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white)](https://github.com/DasReyxr/VHDL_RISC-V)
-
-- [![RISC-V](https://img.shields.io/badge/XILINX-IEEE754%20FloatingPoint%20Calculator-red?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto&labelColor=red&color=white)](https://github.com/DasReyxr/HDL-ART/tree/main/Examen3IEEECalc)
-
+</td>
+</tr>
+</table>
 
 
 
