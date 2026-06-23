@@ -1,5 +1,15 @@
 # About Me:
-<br>I'm a future electronics engineer, also a tech passionate about **HDL Design, Embedded Systems and coding**. <br>My philospophy is to focus on **scalability and optimization**. I enjoy working with different microcontrollers like **AVRs, ARM and PIC** (with a strong preference for ARM). I enjoy designing efficient **digital systems using VHDL**.<br>I'm open to learn everything that would be required.<br><br>
+
+I'm an Electronics and Computer Systems Engineering student passionate about **Digital Design, Embedded Systems, FPGA Development, and Low-Level Programming**.
+
+My main interests revolve around **hardware-software integration**, where I enjoy designing efficient digital systems, developing firmware, and understanding how things work from the transistor level up to complete embedded applications.
+
+I strongly value **scalability, optimization, and clean architectures**. I enjoy solving engineering problems through a combination of mathematics, electronics, programming, and computer architecture.
+
+My preferred platforms include **ARM-based microcontrollers**, although I also have experience with **AVR and PIC devices**. I regularly work with **VHDL**, digital logic design, signal analysis, and embedded development.
+
+I am constantly learning and enjoy exploring new technologies whenever they contribute to becoming a better engineer.
+
 
 
 
@@ -9,6 +19,25 @@
 - **Python Development**: Integrating APIs and libraries for automation in different applications e.g. Creating Playlist on Spotify based on genres, solving math problems using `numpy` and `sympy`. 
 - **Networks and Databases**: Setting up NAS Servers to host SQL databases for personal and professional projects.
 - **Excel Macros:** Implementing Automation stuff on Payrolls or excel databases, focused on organized workflow.
+
+### Engineering Interests
+
+* Digital Design
+* FPGA Development
+* Embedded Systems
+* Computer Architecture
+* Signal Processing
+* Telecommunications
+* Automation
+* Open-Source Technologies
+
+## Current Focus
+
+* Advanced VHDL and FPGA development.
+* Embedded systems design using ARM microcontrollers.
+* Digital communications and computer architecture.
+* Building efficient, maintainable, and scalable engineering projects.
+
 
 
 ## Connect With Me
