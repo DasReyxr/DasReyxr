@@ -1,6 +1,6 @@
 # About Me:
 
-I'm an Electronics and Computer Systems Engineering student passionate about **Digital Design, Embedded Systems, FPGA Development, and Low-Level Programming**.
+I'm an Electronics  Engineering student passionate about **Digital Design, Embedded Systems, FPGA Development, and Low-Level Programming**.
 
 My main interests revolve around **hardware-software integration**, where I enjoy designing efficient digital systems, developing firmware, and understanding how things work from the transistor level up to complete embedded applications.
 
