@@ -2,8 +2,10 @@
 
 
 # About Me:
+I'm an Electronic Engineering student passionate about building systems where hardware and software work together seamlessly.
 
-My main interests revolve around **hardware-software integration**, where I enjoy designing efficient digital systems, developing firmware, and understanding how things work from the transistor level up to complete embedded applications.
+Beyond engineering itself, I'm a Linux user and a firm believer in the Open Source and Open Hardware philosophy. I enjoy understanding how things work under the hood, contributing to reusable software, and self-hosting the services I rely on using Linux, Docker and my own NAS infrastructure.
+
 
 I strongly value **scalability, optimization, and clean architectures**. I enjoy solving engineering problems through a combination of mathematics, electronics, programming, and computer architecture.
 
@@ -25,11 +27,21 @@ My preferred platforms include **ARM-based microcontrollers**, although I also h
 </p>
 
 
+
 ## What I Do
-- **Embedded Systems**: Writing clean, optimized codes for a wide range of microcontrollers, experience with Baremetal and HAL libraries.
-- **HDL / FPGA Design**: Developing both sequential and combinational circuits with clear, modular architectures.  
-- **Python Development**: Integrating APIs and libraries for automation in different applications e.g. Creating Playlist on Spotify based on genres, solving math problems using `numpy` and `sympy`. 
-- **Networks and Databases**: Setting up NAS Servers to host SQL databases for personal and professional projects.
+
+- **Embedded Systems** — Bare-metal and HAL firmware development for ARM microcontrollers (STM32), peripheral drivers, communication protocols and reusable libraries.
+
+- **Digital Design** — FPGA development using VHDL, computer architecture, arithmetic units, finite-state machines and digital systems.
+
+- **Electronics** — PCB design with KiCad, analog and digital circuit design, instrumentation and embedded hardware.
+
+- **Software Development** — Building tools with Python, Node.js and JavaScript for automation, engineering workflows and data processing.
+
+- **Web Development** — Creating lightweight web applications using HTML, CSS, JavaScript and React.
+
+- **Automation** — Git workflows, NAS servers, Docker, scripting, spreadsheets and engineering productivity tools.
+
 - **Excel Macros:** Implementing Automation stuff on Payrolls or excel databases, focused on organized workflow.
 
 
@@ -54,6 +66,7 @@ If you click on the badges, you can see the codes I've done in each of these tec
   <a href="https://github.com/DasReyxr/ASM">
     <img src="https://img.shields.io/badge/assembly%20(PIC,%20AVR,%20ARM)-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
   </a>
+
   <a href="https://github.com/DasReyxr/Code-INO">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   </a>
@@ -120,6 +133,7 @@ Feel free to check my repositories to see the projects I've done in each of thes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
