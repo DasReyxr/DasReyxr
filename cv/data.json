@@ -1,0 +1,97 @@
+{
+  "name": "Orlando Reyes",
+  "location": "Aguascalientes, Mexico",
+  "email": "das.reyxr@outlook.com",
+  "phone": "+52 33 4426 8098",
+  "github_url": "https://github.com/DasReyxr",
+  "github_display": "github.com/DasReyxr",
+  "linkedin_url": "https://www.linkedin.com/in/dasreyes/",
+  "linkedin_display": "linkedin.com/in/dasreyes",
+  "cv_pdf_url": "https://github.com/DasReyxr/DasReyxr/raw/main/cv/DasCV.pdf",
+
+  "summary": "Electronics engineering student focused on embedded systems and low-level software development. Hands-on experience with bare-metal STM32/ARM firmware, ESP32, FPGA/VHDL digital design, and Docker-based infrastructure. Experienced across the full stack, from register-level peripheral drivers to Linux and Python automation tooling.",
+
+  "education": [
+    {
+      "title": "Engineer in Electronics",
+      "subtitle": "Universidad Autónoma de Aguascalientes",
+      "date": "08/2023 -- Present (Expected 2027)",
+      "description": "Vice Chair and founding member of the IEEE Student Branch at UAA. Experienced in hardware documentation and technical publishing using LaTeX."
+    },
+    {
+      "title": "Technician in Mechatronics",
+      "subtitle": "CBTis No. 168",
+      "date": "08/2019 -- 07/2022",
+      "description": "Hands-on training in diagnostics, maintenance of mechatronic equipment, AutoCAD drafting, and CNC programming."
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "SCADA System for Industrial PLC",
+      "description": "Designed and implemented a low-cost SCADA system integrating a Linux-based industrial PLC with Node-RED for real-time HMI monitoring and secure remote access via a WireGuard-based mesh VPN."
+    },
+    {
+      "title": "RISC-V Processor Core",
+      "description": "Designed and implemented a custom 32-bit RISC-V processor core in VHDL for FPGA logic synthesis and functional hardware execution."
+    },
+    {
+      "title": "IEEE-754 Floating-Point Calculator",
+      "description": "Developed a 32-bit floating-point arithmetic unit in VHDL and ARM Assembly featuring UART-based dynamic I/O communication."
+    },
+    {
+      "title": "STM32 Bare-Metal Drivers",
+      "description": "Wrote register-level SPI drivers for ILI9341 and ST7735R TFT displays with XPT2046 resistive touch controller integration directly from datasheets."
+    },
+    {
+      "title": "Custom PCB & Power Hardware Design",
+      "description": "Designed minimum-system MCU development boards in KiCad and developed power electronics topologies with custom board layouts."
+    },
+    {
+      "title": "FPV Flight Controller Board Debugging",
+      "description": "Assembled an FPV quadcopter running Betaflight on an STM32F103 flight controller; resolved hardware issues on non-standard clone boards."
+    },
+    {
+      "title": "Self-Hosted Homelab Infrastructure",
+      "description": "Architected and managed a self-hosted Linux NAS containerizing microservices like Home Assistant, local storage, and media streaming via Docker."
+    },
+    {
+      "title": "Workflow Automation & DevTools",
+      "description": "Built Python and Playwright web scrapers/automation tools utilizing Chrome DevTools Protocol (CDP) for event management systems."
+    }
+  ],
+
+  "experience": [
+    {
+      "title": "Database & Systems Administrator",
+      "subtitle": "Academia Yamaha AGS",
+      "date": "05/2024 -- 06/2026",
+      "bullets": [
+        "Standardized student databases and automated reporting workflows using custom Python scripts and VBA for Excel.",
+        "Managed SAT-compliant electronic invoicing and inventory tracking software tools."
+      ]
+    },
+    {
+      "title": "Team Leader IS-Warehouse",
+      "subtitle": "Sensata Technologies",
+      "date": "01/2023 -- 03/2024",
+      "bullets": [
+        "Built automated reporting models in Excel for real-time production tracking and schedule monitoring.",
+        "Coordinated material logistics and stock availability based on high-volume production demand."
+      ]
+    }
+  ],
+
+  "skills": [
+    {"category": "Programming", "items": ["C", "C++", "VHDL", "ARM Assembly", "Python", "VBA"]},
+    {"category": "Embedded Systems", "items": ["STM32 (Cortex-M)", "ESP32/ESP8266", "PIC", "AVR"]},
+    {"category": "Protocols", "items": ["UART/USART", "SPI", "I2C", "CAN"]},
+    {"category": "Tools & OS", "items": ["KiCad", "Git", "Docker", "Linux", "STM32CubeIDE", "PlatformIO"]}
+  ],
+
+  "languages": [
+    {"name": "English", "level": "B1 / Intermediate (Professional Reading & Writing)"}
+  ],
+
+  "softskills": ["Team Leadership", "Technical Writing", "Project Coordination", "Troubleshooting"]
+}

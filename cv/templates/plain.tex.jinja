@@ -1,0 +1,71 @@
+\documentclass[10.5pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1.4cm]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{parskip}
+
+\titleformat{\section}{\normalfont\large\bfseries}{}{0em}{}[\vspace{-0.3em}\hrule]
+\titlespacing*{\section}{0pt}{0.5em}{0.3em}
+
+\setlist[itemize]{leftmargin=1.4em, itemsep=0.15em, topsep=0.2em}
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+	{\LARGE \textbf{\VAR{name}}}\\[0.3em]
+	\VAR{location|tex} \quad|\quad \VAR{email} \quad|\quad \VAR{phone}\\
+	\VAR{github_display} \quad|\quad \VAR{linkedin_display}
+\end{center}
+
+\section*{Summary}
+\VAR{summary|tex}
+
+\section*{Education}
+
+\BLOCK{ for e in education }
+\textbf{\VAR{e.title|tex}} --- \VAR{e.subtitle|tex}\hfill \VAR{e.date|tex}\\
+\VAR{e.description|tex}
+
+\BLOCK{ if not loop.last }
+\vspace{0.2em}
+\BLOCK{ endif }
+\BLOCK{ endfor }
+\section*{Embedded \& Software Projects}
+\BLOCK{ for p in projects }
+\textbf{\VAR{p.title|tex}} --- \VAR{p.description|tex}
+\BLOCK{ if not loop.last }
+
+\vspace{0.15em}
+\BLOCK{ endif }
+\BLOCK{ endfor }
+
+\section*{Professional Experience}
+
+\BLOCK{ for job in experience }
+\textbf{\VAR{job.title|tex}} --- \VAR{job.subtitle|tex}\hfill \VAR{job.date|tex}
+\begin{itemize}
+\BLOCK{ for b in job.bullets }
+	\item \VAR{b|tex}
+\BLOCK{ endfor }
+\end{itemize}
+\BLOCK{ endfor }
+\section*{Technical Skills}
+
+\BLOCK{ for s in skills }
+\textbf{\VAR{s.category|tex}:} \VAR{s['items']|commajoin}\\
+\BLOCK{ endfor }
+
+\section*{Languages}
+\BLOCK{ for l in languages }
+\VAR{l.name|tex}: \VAR{l.level|tex}
+\BLOCK{ endfor }
+
+\section*{Soft Skills}
+\VAR{softskills|commajoin}
+
+\end{document}

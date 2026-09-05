@@ -1,0 +1,124 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1.2cm]{geometry}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usepackage{eso-pic}
+\usepackage{fontawesome5}
+
+\definecolor{accent}{HTML}{7B3F95}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.2em}
+
+\newcommand{\cvsection}[1]{%
+\vspace{0.6em}
+{\color{accent}\large\bfseries #1}\par
+{\color{accent}\rule{\linewidth}{1.1pt}}\vspace{0.35em}
+}
+
+\newcommand{\entrytitle}[1]{\textbf{#1}\par}
+\newcommand{\entrysubtitle}[1]{\textit{#1}\par}
+\newcommand{\entrydate}[1]{#1\par\vspace{0.2em}}
+
+\newcommand{\boxedtext}[1]{%
+\fbox{%
+\begin{minipage}[t]{0.96\linewidth}
+\small #1
+\end{minipage}
+}\par
+}
+
+\newcommand{\purpleborder}{%
+\begin{tikzpicture}[remember picture,overlay]
+\draw[color=accent,line width=3pt]
+(current page.north west)
+rectangle
+(current page.south east);
+\end{tikzpicture}%
+}
+
+\begin{document}
+\AddToShipoutPictureBG*{\purpleborder}
+
+\begin{minipage}[t]{0.47\textwidth}
+\vspace{0pt}
+{\color{accent}\Huge\bfseries \VAR{name}}\par
+\vspace{0.8em}
+
+Email: \href{mailto:\VAR{email}}{\VAR{email}}\par
+Phone: \VAR{phone}\par
+Location: \VAR{location|tex}\par
+GitHub: \faGithub\ \href{\VAR{github_url}}{\VAR{github_display}}\par
+LinkedIn: \faLinkedin\ \href{\VAR{linkedin_url}}{\VAR{linkedin_display}}\par
+
+\cvsection{About Me}
+
+\VAR{summary|tex}
+
+\vspace{0.4em}
+\small
+\faGithub\ \href{\VAR{cv_pdf_url}}{Get Updated CV (PDF)} \quad | \quad \textit{Updated: \today}
+
+\cvsection{Embedded \& Software Projects}
+
+\BLOCK{ for p in projects }
+\entrytitle{\VAR{p.title|tex}}
+\small
+\VAR{p.description|tex}
+\vspace{0.4em}
+
+\BLOCK{ endfor }
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.49\textwidth}
+\vspace{0pt}
+
+\cvsection{Education}
+
+\BLOCK{ for e in education }
+\entrytitle{\VAR{e.title|tex}}
+\entrysubtitle{\VAR{e.subtitle|tex}}
+\entrydate{\VAR{e.date|tex}}
+\small
+\VAR{e.description|tex}
+\vspace{0.4em}
+
+\BLOCK{ endfor }
+\cvsection{Professional Experience}
+
+\BLOCK{ for job in experience }
+\entrytitle{\VAR{job.title|tex}}
+\entrysubtitle{\VAR{job.subtitle|tex}}
+\entrydate{\VAR{job.date|tex}}
+\begin{itemize}[leftmargin=1.2em,itemsep=0.1em,topsep=0.2em]
+\BLOCK{ for b in job.bullets }
+    \item \VAR{b|tex}
+\BLOCK{ endfor }
+\end{itemize}
+
+\BLOCK{ endfor }
+\cvsection{Technical Skills}
+
+\BLOCK{ for s in skills }
+\boxedtext{\textbf{\VAR{s.category|tex}:} \VAR{s['items']|bulletjoin}}
+
+\vspace{0.3em}
+\BLOCK{ endfor }
+\cvsection{Languages}
+
+\BLOCK{ for l in languages }
+\boxedtext{\textbf{\VAR{l.name|tex}:} \VAR{l.level|tex}}
+\BLOCK{ endfor }
+
+\cvsection{Soft Skills}
+
+\boxedtext{\VAR{softskills|bulletjoin}}
+
+\end{minipage}
+
+\end{document}

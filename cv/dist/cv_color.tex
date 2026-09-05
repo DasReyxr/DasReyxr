@@ -15,27 +15,15 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.2em}
 
-%------------------------------------------------
-% Custom commands
-%------------------------------------------------
-
 \newcommand{\cvsection}[1]{%
 \vspace{0.6em}
 {\color{accent}\large\bfseries #1}\par
 {\color{accent}\rule{\linewidth}{1.1pt}}\vspace{0.35em}
 }
 
-\newcommand{\entrytitle}[1]{%
-\textbf{#1}\par
-}
-
-\newcommand{\entrysubtitle}[1]{%
-\textit{#1}\par
-}
-
-\newcommand{\entrydate}[1]{%
-#1\par\vspace{0.2em}
-}
+\newcommand{\entrytitle}[1]{\textbf{#1}\par}
+\newcommand{\entrysubtitle}[1]{\textit{#1}\par}
+\newcommand{\entrydate}[1]{#1\par\vspace{0.2em}}
 
 \newcommand{\boxedtext}[1]{%
 \fbox{%
@@ -45,10 +33,6 @@
 }\par
 }
 
-%------------------------------------------------
-% Page border
-%------------------------------------------------
-
 \newcommand{\purpleborder}{%
 \begin{tikzpicture}[remember picture,overlay]
 \draw[color=accent,line width=3pt]
@@ -57,7 +41,6 @@ rectangle
 (current page.south east);
 \end{tikzpicture}%
 }
-
 
 \begin{document}
 \AddToShipoutPictureBG*{\purpleborder}
@@ -71,7 +54,7 @@ Email: \href{mailto:das.reyxr@outlook.com}{das.reyxr@outlook.com}\par
 Phone: +52 33 4426 8098\par
 Location: Aguascalientes, Mexico\par
 GitHub: \faGithub\ \href{https://github.com/DasReyxr}{github.com/DasReyxr}\par
-LinkedIn: \faLinkedin\ \href{https://www.linkedin.com/in/dasreyes/}{linkedin.com/in/dasreyes/}\par
+LinkedIn: \faLinkedin\ \href{https://www.linkedin.com/in/dasreyes/}{linkedin.com/in/dasreyes}\par
 
 \cvsection{About Me}
 
@@ -79,15 +62,14 @@ Electronics engineering student focused on embedded systems and low-level softwa
 
 \vspace{0.4em}
 \small
-\faGithub\ \href{https://github.com/DasReyxr/DasReyxr/blob/main/cv/DasCV.pdf}{Get Updated CV (PDF)} \quad | \quad \textit{Updated: \today}
+\faGithub\ \href{https://github.com/DasReyxr/DasReyxr/raw/main/cv/DasCV.pdf}{Get Updated CV (PDF)} \quad | \quad \textit{Updated: \today}
 
 \cvsection{Embedded \& Software Projects}
 
-\entrytitle{SCADA System for Industrial PLC} 
+\entrytitle{SCADA System for Industrial PLC}
 \small
 Designed and implemented a low-cost SCADA system integrating a Linux-based industrial PLC with Node-RED for real-time HMI monitoring and secure remote access via a WireGuard-based mesh VPN.
 \vspace{0.4em}
-
 
 \entrytitle{RISC-V Processor Core}
 \small
@@ -122,20 +104,20 @@ Architected and managed a self-hosted Linux NAS containerizing microservices lik
 \entrytitle{Workflow Automation \& DevTools}
 \small
 Built Python and Playwright web scrapers/automation tools utilizing Chrome DevTools Protocol (CDP) for event management systems.
+\vspace{0.4em}
 
 \end{minipage}
 \hfill
 \begin{minipage}[t]{0.49\textwidth}
 \vspace{0pt}
 
-%------------------------------------------------
 \cvsection{Education}
 
 \entrytitle{Engineer in Electronics}
-\entrysubtitle{Universidad Aut\'onoma de Aguascalientes}
+\entrysubtitle{Universidad Autónoma de Aguascalientes}
 \entrydate{08/2023 -- Present (Expected 2027)}
 \small
-Vice Chair and founding member of the IEEE Student Branch at UAA. Experienced in hardware documentation and technical publishing using \LaTeX.
+Vice Chair and founding member of the IEEE Student Branch at UAA. Experienced in hardware documentation and technical publishing using LaTeX.
 \vspace{0.4em}
 
 \entrytitle{Technician in Mechatronics}
@@ -143,8 +125,8 @@ Vice Chair and founding member of the IEEE Student Branch at UAA. Experienced in
 \entrydate{08/2019 -- 07/2022}
 \small
 Hands-on training in diagnostics, maintenance of mechatronic equipment, AutoCAD drafting, and CNC programming.
+\vspace{0.4em}
 
-%------------------------------------------------
 \cvsection{Professional Experience}
 
 \entrytitle{Database \& Systems Administrator}
@@ -163,65 +145,27 @@ Hands-on training in diagnostics, maintenance of mechatronic equipment, AutoCAD 
     \item Coordinated material logistics and stock availability based on high-volume production demand.
 \end{itemize}
 
-%------------------------------------------------
 \cvsection{Technical Skills}
 
-\boxedtext{
-\textbf{Programming:}
-C \textbullet{}
-C++ \textbullet{}
-VHDL \textbullet{}
-ARM Assembly \textbullet{}
-Python \textbullet{}
-VBA
-}
+\boxedtext{\textbf{Programming:} C \textbullet{} C++ \textbullet{} VHDL \textbullet{} ARM Assembly \textbullet{} Python \textbullet{} VBA}
 
 \vspace{0.3em}
-
-\boxedtext{
-\textbf{Embedded Systems:}
-STM32 (Cortex-M) \textbullet{}
-ESP32/ESP8266 \textbullet{}
-PIC \textbullet{}
-AVR
-}
+\boxedtext{\textbf{Embedded Systems:} STM32 (Cortex-M) \textbullet{} ESP32/ESP8266 \textbullet{} PIC \textbullet{} AVR}
 
 \vspace{0.3em}
-
-\boxedtext{
-\textbf{Protocols:}
-UART/USART \textbullet{}
-SPI \textbullet{}
-I\textsuperscript{2}C \textbullet{}
-CAN
-}
+\boxedtext{\textbf{Protocols:} UART/USART \textbullet{} SPI \textbullet{} I2C \textbullet{} CAN}
 
 \vspace{0.3em}
+\boxedtext{\textbf{Tools \& OS:} KiCad \textbullet{} Git \textbullet{} Docker \textbullet{} Linux \textbullet{} STM32CubeIDE \textbullet{} PlatformIO}
 
-\boxedtext{
-\textbf{Tools \& OS:}
-KiCad \textbullet{}
-Git \textbullet{}
-Docker \textbullet{}
-Linux \textbullet{}
-STM32CubeIDE \textbullet{}
-PlatformIO
-}
-
-%------------------------------------------------
+\vspace{0.3em}
 \cvsection{Languages}
 
 \boxedtext{\textbf{English:} B1 / Intermediate (Professional Reading \& Writing)}
 
-%------------------------------------------------
 \cvsection{Soft Skills}
 
-\boxedtext{
-Team Leadership \textbullet{}
-Technical Writing \textbullet{}
-Project Coordination \textbullet{}
-Troubleshooting
-}
+\boxedtext{Team Leadership \textbullet{} Technical Writing \textbullet{} Project Coordination \textbullet{} Troubleshooting}
 
 \end{minipage}
 
