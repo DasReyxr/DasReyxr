@@ -75,6 +75,8 @@ def build():
                 stdout=subprocess.PIPE,
                 stderr=subprocess.STDOUT,
                 text=True,
+                encoding="utf-8",
+                errors="replace",
             )
         if result.returncode != 0:
             print(f"[FAIL] pdflatex failed for {out_path} (see {out_path.with_suffix('.log')})")
