@@ -20,7 +20,7 @@ My preferred platforms include **ARM-based microcontrollers**, although I also h
   <a href="https://ieee-collabratec.ieee.org/app/p/DasReyxr">
   <img alt="Static Badge" src="https://img.shields.io/badge/DasReyxr-white?style=for-the-badge&logo=ieee&logoColor=white&logoSize=auto&labelColor=blue&color=blue">
   </a>
-<a href="https://github.com/DasReyxr/DasReyxr/blob/main/cv/DasCV.pdf">
+<a href="https://github.com/DasReyxr/DasReyxr/blob/main/cv/dist/cv_ats_plain.pdf">
   <img alt="Static Badge" src="https://img.shields.io/badge/CV-DasReyxr-purple?style=for-the-badge&labelColor=%23272727">
 </a>
 
