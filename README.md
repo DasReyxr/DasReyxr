@@ -80,7 +80,7 @@ If you click on the badges, you can see the codes I've done in each of these tec
   <a>
     <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoSize=auto&logoColor=white" alt="KiCad" />
   </a>
-  <a>
+  <a href="https://github.com/DasReyxr/LaTeXResearch">
     <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoSize=auto&logoColor=white" alt="LaTeX" />
   </a>
 
